@@ -1,16 +1,7 @@
-# book
+# book share
 
-A new Flutter project.
+A Flutter project In which you can give your used novels or any other book to the needfull persone.
 
-## Getting Started
+- You open app and see available books and if you want to get that book contact that persone and get.
+- you can add your used books or the book you want to give to other.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
